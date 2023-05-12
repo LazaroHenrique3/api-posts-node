@@ -1,4 +1,4 @@
-
+ 
 # CRUder API
 
 Projeto de uma API para um projeto Full Stack, para o desenvolviemnto dessa API foram utilizados, Node, express e MongoDB, um projeto relativamente simples (CRUD) afim
